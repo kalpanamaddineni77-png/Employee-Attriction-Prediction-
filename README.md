@@ -1,2 +1,2 @@
-# Employee-Attriction-Prediction-
-Employee Attriction Prediction  model Description
+# Employee-Attriction-Prediction-Using-Mechine-Learning
+Employee Attriction Prediction Using Mechine Learning Description
